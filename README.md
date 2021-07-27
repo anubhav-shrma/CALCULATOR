@@ -1,2 +1,1 @@
-Basic Calculator Functions Program
-Fucntions - Addition, Subtraction, Multiplication, Average
+Basic Calculator Functions Program that can perform Addition, Subtraction, Multiplication and Average.
